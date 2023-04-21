@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Welcome to the [**360ace Technology Inc**](https://360ace.net) blog! Here, we share our thoughts and insights on the latest developments in the tech industry and how they impact the path towards digital transformation.
+Welcome to the [**360ace Technology Inc**](https://360ace.net) blog! Here, we share our thoughts and insights on the latest developments, news and articles in the tech industry and how they impact the path towards digital transformation.
 
 [**360ace Technology Inc**](https://360ace.net)  is a cutting-edge technology firm that specializes in providing innovative solutions to complex problems. We are passionate about creating transformative technology that can improve the way people live and work. Our team of skilled engineers, developers, and designers work tirelessly to develop products that meet the needs of our clients and customers.
 

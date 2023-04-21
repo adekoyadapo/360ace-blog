@@ -18,7 +18,7 @@ timezone: America/Edmonton
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 360aceTech # the main title
+title: 360ACE. # the main title
 
 tagline: Empowering Your Business with Innovative Technology Solutions # it will display as the sub-title
 
@@ -26,6 +26,12 @@ description: >- # used by seo meta and the atom feed
   Articles, Blog post on Digital Transformation and Cloud Technology.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+
+# Used to detemine custom excerpt tag. Include `<!-- excerpt-start -->` and `<!-- excerpt-end -->` in the post.
+# This will be the excepty on home page.
+excerpt_separator: <!-- excerpt-end -->
+
+
 url: "https://blog.360ace.net"
 
 github:
@@ -37,7 +43,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 360ace Tech
+  name: 360ace
   email: info@360ace.net # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -80,7 +86,9 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/logo-dark.png
+avatar: 
+  dark: assets/img/logo-dark.png
+  light: assets/img/logo-light.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true

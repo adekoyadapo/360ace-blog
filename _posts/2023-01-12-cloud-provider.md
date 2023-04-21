@@ -1,8 +1,8 @@
 ---
 title: Starting your Cloud Journey
 date: 2023-01-12 12:00:00 -0700
-categories: [cloud,cloud-technology]
-tags: [cloud,architecture]
+categories: [cloud]
+tags: [cloud,architecture,articles]
 author: ade
 image:
   path: /assets/img/cloud-provider.png
@@ -12,9 +12,15 @@ image:
 <!-- ![Cloud Providers](../../assets/img/cloud-provider.png)
 _Notable Cloud Providers_ -->
 
+<!-- excerpt-start -->
+As businesses and individuals continue to move their data and computing needs to the cloud, choosing the right cloud provider has become increasingly important. <br>
+With so many options available, it can be difficult to determine which provider is the best fit for your specific needs. In this article, we will explore some of the key factors to consider when selecting a cloud provider.
+<!-- excerpt-end -->
+
 ## Choosing the right Cloud Service Provider
 
-As businesses and individuals continue to move their data and computing needs to the cloud, choosing the right cloud provider has become increasingly important. With so many options available, it can be difficult to determine which provider is the best fit for your specific needs. In this article, we will explore some of the key factors to consider when selecting a cloud provider.
+As businesses and individuals continue to move their data and computing needs to the cloud, choosing the right cloud provider has become increasingly important. <br>
+With so many options available, it can be difficult to determine which provider is the best fit for your specific needs. In this article, we will explore some of the key factors to consider when selecting a cloud provider.
 
 ## **1. Cost**
 
@@ -73,11 +79,18 @@ In the same place there are other providers who offer cloud based services but i
 
 ## From an architects point of view
 
-I have often based the decision on which cloud provider to use based on the 5 listed conditions with some extra. While consulting and assisting businesses to make decisions on their digital transformation with cloud technologies, I usually try to understand some criteria.
+I have often based the decision on which cloud provider to use on the 5 listed conditions above but with some extra thoughts.
+While consulting and assisting businesses to make decisions on their digital transformation with cloud technologies, I usually try to understand some extra criteria.
 
-- Business long term goals - what direction the product or service is going as regards its end users.
-- The team - Often times the flexibility of the team involved in the project is quite paramount, I have seen developers on projects take preference to AWS over GCP just because of how much development they have done with SDKs, libraries that they are more experienced with and more comfortable to use with AWS than GCP.
-- The architectural requirements it self - My often goto is to leverage PAAS services as much as possible for smaller teams than IAAS just for the simple reason of operational overhead. This has provided guidance in selecting the cloud services required and the potential providers to host the end product for the business.
+>
+_Some of the criteria I have used_<br>
+**Business long term goals**<br>
+What direction the product or service is going as regards its end users.<br>
+**The team**<br>
+Most often the flexibility of the team involved in the project is quite paramount, I have seen developers on projects take preference to AWS over GCP just because of how much development they have done with SDKs, libraries that they are more experienced with and more comfortable to use with AWS than GCP.<br>
+**The architectural requirements itself**<br>
+My [**_GOTO_**] is to leverage [**PAAS**] - [Platform as a Service](https://en.wikipedia.org/wiki/Platform_as_a_service) services as much as possible for smaller teams than IAAS just for the simple reason of operational overhead. This has provided guidance in selecting the cloud services required and the potential providers to host the end product for the business.
+{: .prompt-info }
 
 ## Conclusion
 
