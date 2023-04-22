@@ -77,7 +77,7 @@ In the same place there are other providers who offer cloud based services but i
   - [heroku](https://www.heroku.com/)
   - [Github pages](https://pages.github.com/)
 
-## From an architects point of view
+## From an architectural point of view
 
 I have often based the decision on which cloud provider to use on the 5 listed conditions above but with some extra thoughts.
 While consulting and assisting businesses to make decisions on their digital transformation with cloud technologies, I usually try to understand some extra criteria.
