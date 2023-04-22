@@ -1,14 +1,14 @@
 name: "Build and Deploy"
 on:
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - .gitignore
-      - README.md
-      - LICENSE
+  # push:
+  #   branches:
+  #     - main
+  #   paths-ignore:
+  #     - .gitignore
+  #     - README.md
+  #     - LICENSE
   pull_request:
-    branches: [ "master", "dev"]
+    branches: [ "main", "dev"]
     paths-ignore:
       - .gitignore
       - README.md
