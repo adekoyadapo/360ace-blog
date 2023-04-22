@@ -43,8 +43,8 @@ In recent times, this architecture can be simplified with Federated Identity and
 #### Foundational Architecture
 
 Over the years, I have found the need to leverage on a proper cloud foundation architecture, which entails setting up basic, security, networking and policies before deploying resources into the cloud platform.
-With the above setup, one major security issue was the exposing of the Domain controllers to the internet, though a lot was put into locking it down to certain IPs, but early cloud services did not have a SDN - [_software defined networking_](https://en.wikipedia.org/wiki/Software-defined_networking) and made network isolation a little difficult to achieve unlike today.
-Also, the use of VM based software VPN like [softether](https://www.softether.org/), [strongswan](https://www.strongswan.org/), was the only way to implement site-to-site VPN connections and believe me when i say it was not a walk in the park to set up with Cisco ASA devices. There were the usual bugs, tunnel timeouts that occur on regular basis and sometimes the bandwidth was not sufficient enough and it just breaks the connection.
+With the above setup, one major security issue was the exposing of the Domain controllers to the internet, though a lot was put into locking it down to certain IPs, but early cloud services did not have an SDN - [_software defined networking_](https://en.wikipedia.org/wiki/Software-defined_networking) and made network isolation a little difficult to achieve unlike today.
+Also, the use of VM based software VPN like [softether](https://www.softether.org/), [strongswan](https://www.strongswan.org/), was the only way to implement site-to-site VPN connections and believe me when I say it was not a walk in the park to set up with Cisco ASA devices. There were the usual bugs, tunnel timeouts that occur on regular basis and sometimes the bandwidth was not sufficient enough, and it just breaks the connection.
 
 ### The future
 
@@ -54,4 +54,4 @@ Some of the limitations mentioned are a thing of the past with most providers, y
 
 This is going to be in series with more highlights into the best practices adopted, mistakes made, and corrective measure put in place over the years of deploying cloud workloads.<br>
 Majority of the cloud service providers actually have provided robust documentations that I have really leveraged on in many consultancy activities and implementation projects I have been part of and believe me they are really helpful.<br>
-More insightful information will be shared on this journey so stay tuned...
+More insightful information will be shared on this journey, so stay tuned...
