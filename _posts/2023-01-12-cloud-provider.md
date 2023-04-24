@@ -2,7 +2,7 @@
 title: Starting your Cloud Journey
 date: 2023-01-12 12:00:00 -0700
 categories: [cloud]
-tags: [cloud,architecture,articles]
+tags: [cloud, architecture, articles]
 author: ade
 image:
   path: /assets/img/cloud-provider.png
