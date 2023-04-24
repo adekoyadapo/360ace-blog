@@ -2,7 +2,7 @@
 title: Containerization
 date: 2023-02-24 12:00:00 -0700
 categories: [containers]
-tags: [containers,applications]
+tags: [containers, applications, articles]
 author: ade
 image:
   path: /assets/img/containerize.png
