@@ -4,6 +4,9 @@ date: 2023-03-4 12:00:00 -0700
 categories: [infrastructure]
 tags: [infrastructure, tools, softwares, articles]
 author: ade
+image:
+  path: /assets/img/it-drawing-tools.png
+  alt: IT Infrastructure Architectural Diagrams Tools
 ---
 
 IT infrastructure architectural diagrams are an important aspect of designing and documenting the intended infrastructure. These diagrams allow teams to visualize complex ideas and communicate those ideas in a simple and visual way. Over the years, I have leveraged IT architectural diagrams to conceptualize business requirements and definitions to actual and more practical technical overview so as to have a proper interpretation of the ideas of executives. Here we will dive into some of the best tools for creating IT infrastructure architectural diagrams.
