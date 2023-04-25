@@ -6,7 +6,7 @@ tags: [containers, applications, articles]
 author: ade
 image:
   path: /assets/img/containerize.png
-alt: Containerize Workloads
+  alt: Containerize Workloads
 ---
 
 Containerizing applications is becoming increasingly popular due to its ability to simplify software development and deployment processes. Containers provide a lightweight and efficient way to package an application along with its dependencies, libraries, and runtime environment into a single package that can be easily moved between different environments, such as development, testing, and production.
