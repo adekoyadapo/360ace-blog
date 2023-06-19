@@ -4,6 +4,9 @@ date: 2023-05-30 12:00:00 -0700
 categories: [cloud, articles]
 tags: [cloud, architecture, IaC]
 author: ade
+image:
+  path: /assets/img/iac.png
+  alt: Infrastructure as Code
 ---
 
 # Leveraging Infrastructure as Code (IaC) for Cloud Infrastructure Management
