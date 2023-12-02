@@ -9,15 +9,6 @@ image:
   alt: Notable Cloud Providers
 ---
 
-<!-- ![Cloud Providers](../../assets/img/cloud-provider.png)
-_Notable Cloud Providers_ -->
-
-<!-- excerpt-start -->
-As businesses and individuals continue to move their data and computing needs to the cloud, choosing the right cloud provider has become increasingly important.
-
-With so many options available, it can be difficult to determine which provider is the best fit for your specific needs. In this article, we will explore some of the key factors to consider when selecting a cloud provider.
-<!-- excerpt-end -->
-
 ## Choosing the right Cloud Service Provider
 
 As businesses and individuals continue to move their data and computing needs to the cloud, choosing the right cloud provider has become increasingly important.

@@ -5,9 +5,6 @@ categories: [cloud]
 tags: [cloud, articles]
 author: ade
 ---
-<!-- excerpt-start -->
-As more and more businesses move their operations to the cloud, it's important to have a solid understanding of cloud workloads and how they function. Understanding the different types of cloud workloads can help organizations choose the right cloud services for their business needs. In this article, we'll explore the basics of cloud workloads and what you need to know to effectively manage them.
-<!-- excerpt-end -->
 
 # Cloud Workloads: Understanding the Basics
 

@@ -5,9 +5,6 @@ categories: [cloud,cloud-technology]
 tags: [cloud, architecture, articles]
 author: ade
 ---
-<!-- excerpt-start -->
-There are several key lessons that can be learned from cloud infrastructure architecture, and over the years it has been a huge achievement towards setting up businesses for success on their infrastructure modernization journey.
-<!-- excerpt-end -->
 
 # Cloud Infrastructure Architecture - Experience I
 
