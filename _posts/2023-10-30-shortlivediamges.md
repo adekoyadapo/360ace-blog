@@ -43,7 +43,7 @@ docker build --tag ttl.sh/${IMAGE_NAME}:1m .
 docker push ttl.sh/${IMAGE_NAME}:1m
 ```
 
-### Scenario Usage
+## Scenario Usage
 
 This usage of short-lived images is useful in scenarios where you want to quickly spin up a container for testing or debugging purposes inside a CICD pipeline without having to authenticate and push to a private repository.
 Example github action workflow
@@ -95,6 +95,7 @@ jobs:
         nodeport="${{ steps.check-nodeport.outputs.nodeport }}"
         curl http://localhost:${nodeport}
 ```
+
 This simple workflow from the [repo](https://github.com/adekoyadapo/k8s-kind-github-action) is an example where the container image in a simple kind cluster as part of a CI workflow.
 
 For someone like me that leverage on quick demos, this has been an added advantage in a while now. You can visit this [repo](https://github.com/adekoyadapo/k8s-kind-github-action) to see how it works in a pipeline
