@@ -1,5 +1,5 @@
 ---
-title: The Cloud Experience Experience III
+title: The Cloud Experience - Experience III
 date: 2023-05-30 12:00:00 -0700
 categories: [cloud, articles]
 tags: [cloud, architecture, IaC]
