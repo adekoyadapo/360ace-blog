@@ -1,5 +1,5 @@
 ---
-title: The Cloud Experience Experience II
+title: The Cloud Experience - Experience II
 date: 2023-03-30 12:00:00 -0700
 categories: [cloud, cloud-technology]
 tags: [cloud, architecture, articles]
