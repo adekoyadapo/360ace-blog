@@ -1,8 +1,8 @@
 ---
 title: The Cloud Experience - Experience IV
 date: 2024-01-20 12:00:00 -0700
-categories: [Kubernetes, articles]
-tags: [Kubernetes, Cloud]
+categories: [kubernetes, articles]
+tags: [kubernetes, cloud]
 author: ade
 image:
   path: /assets/img/tfk3d.png

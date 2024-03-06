@@ -1,7 +1,7 @@
 ---
 title: Starting your Cloud Journey
 date: 2023-01-12 12:00:00 -0700
-categories: [cloud]
+categories: [cloud,cloud-technology]
 tags: [cloud, architecture, articles]
 author: ade
 image:

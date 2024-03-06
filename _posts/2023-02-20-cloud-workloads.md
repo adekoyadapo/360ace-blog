@@ -1,7 +1,7 @@
 ---
 title: Cloud Workloads
 date: 2023-02-20 12:00:00 -0700
-categories: [cloud]
+categories: [cloud,cloud-technology]
 tags: [cloud, articles]
 author: ade
 ---

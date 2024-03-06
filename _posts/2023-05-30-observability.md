@@ -1,7 +1,7 @@
 ---
 title: Infrastructure Observability
 date: 2023-05-30 12:00:00 -0700
-categories: [tools, articles]
+categories: [infrastructure, tools]
 tags: [cloud, architecture, observability]
 author: ade
 image:
