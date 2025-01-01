@@ -1,7 +1,7 @@
 ---
 title: Short-lived Container Images
 date: 2023-10-30 12:00:00 -0700
-categories: [Containers]
+categories: [containers]
 tags: [tools, containers]
 author: ade
 image:
